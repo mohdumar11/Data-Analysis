@@ -5,8 +5,8 @@ Objectives
 After completing this lab you will be able to:
 1. Acquire data in various ways
 2. Obtain insights from data with Pandas library
-// loading the dataset
+# loading the dataset.
 4. df = pd.read_csv(other_path, header=None)
-5. // We replace headers and recheck our dataframe:
+# We replace headers and recheck our dataframe:
 6. df.columns = headers
 
