@@ -1,4 +1,7 @@
 # Data-Analysis
+
+## System Requirment
+Use Google Colab or Anaconda to run this file.
 https://github.com/mohdumar11/Data-Analysis/blob/main/DA0101EN-Review-Introduction.ipynb
 
 Objectives
